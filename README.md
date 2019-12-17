@@ -17,6 +17,7 @@
 > 8. **Ctrl+Shift+Alt+2** : 列出当前文件的路径结构
 > 9. **Ctrl+Alt+H** : 对函数快速编辑
 > 10. **Shift+F6** : 快速重命名
+> 11. **Ctrl+Q** : 查找注释
 
 ### [**Socket**](Socket)
 
